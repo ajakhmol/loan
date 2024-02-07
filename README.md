@@ -57,7 +57,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@ajakhmola] - feel free to contact me!
+Created by [@ajakhmol] - feel free to contact me!
 
 
 <!-- Optional -->
